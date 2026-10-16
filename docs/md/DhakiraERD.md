@@ -7,23 +7,23 @@
 <a href="../../README.md"><kbd> 🏠 <b>الرئيسية</b> </kbd></a>
 &nbsp;&nbsp;
 <a href="DhakiraSRS.md"><kbd> 📄 وثيقة المتطلبات </kbd></a>
-
+&nbsp;&nbsp;
 <a href="DhakiraVision.md"><kbd> 📄 وثيقة الرؤية vision </kbd></a>
-
+&nbsp;&nbsp;
 <a href="DhaliraUseCase.md"><kbd> 📄 وثيقة مخطط حالات الأستخدام </kbd></a>
-
+&nbsp;&nbsp;
 <a href="DhakiraDomainModel.md"><kbd> 📄 وثيقة Domain Model  </kbd></a>
-
-<a href="ActivityDiagrams.md"><kbd> 📄 وثيقة مخطط النشاط لأهم حالات الأستخدام </kbd></a>
+&nbsp;&nbsp;
+<a hrevf="ActivityDiagrams.md"><kbd> 📄 وثيقة مخطط النشاط لأهم حالات الأستخدام </kbd></a>
 
 <a href="DhakiraC4.md"><kbd> 📄 وثيقة ال C4 </kbd></a>
-
+&nbsp;&nbsp;
 <a href="DhakiraERD.md"><kbd> 📄 وثيقة مخطط قاعدة البيانات </kbd></a>
-
+&nbsp;&nbsp;
 <a href="SequenceResume.md"><kbd> 📄 وثيقة مخطط التسلسل لحالة أستئناف المشروع في التطبيق </kbd></a>
-
+&nbsp;&nbsp;
 <a href="DhakiraArc42.md"><kbd> 📄 وثيقة المعمارية </kbd></a>
-
+&nbsp;&nbsp;
 <a href="DhakiraApiContract.md"><kbd> 📄 وثيقة عقد ال Api  </kbd></a>
 
 </p>
